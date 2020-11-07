@@ -1,5 +1,6 @@
----
-title: About writing and formatting on GitHub
+Bloody toad
+
+title: independent label
 intro: GitHub combines a syntax for formatting text called GitHub Flavored Markdown with a few unique writing features.
 redirect_from:
   - /articles/about-writing-and-formatting-on-github
